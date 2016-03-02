@@ -136,7 +136,6 @@ table {
 	margin: 0 0 30px 0;
 }
 .vidsec {
-	
 	background-color: #e3e3e3;
 }
 .vidsec .pp{
@@ -197,4 +196,13 @@ iframe {
 .listdiv a:hover {
 	text-decoration: none;
 	color: grey;
+}
+.marright {
+	margin-left: 900px; 
+}
+.smallertext {
+	margin-top: 500px;
+}
+.item {
+	opacity: 0;
 }
